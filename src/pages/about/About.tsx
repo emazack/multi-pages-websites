@@ -1,10 +1,6 @@
-export default function App() {
+export default function About() {
     return (
         <>
-            Our Company
-            Locations
-            Contact
-
             About us
             Founded in 2010, we are a creative agency that produces lasting results for our clients.
             We’ve partnered with many startups, corporations, and nonprofits alike to craft designs
@@ -42,18 +38,6 @@ export default function App() {
             Ready to take it to the next level? Contact us today and find out how our expertise can
             help your business grow.
             Get in touch
-
-            Our company
-            Locations
-            Contact
-
-            Designo Central Office
-            3886 Wellington Street
-            Toronto, Ontario M9C 3J5
-
-            Contact Us (Central Office)
-            P : +1 253-863-8967
-            M : contact@designo.co
         </>
     );
 }

@@ -1,10 +1,6 @@
-export default function App() {
+export default function Locations() {
     return (
         <>
-            Our Company
-            Locations
-            Contact
-
             Canada
             Designo Central Office
             3886 Wellington Street
@@ -36,18 +32,6 @@ export default function App() {
             Ready to take it to the next level? Contact us today and find out how our expertise can
             help your business grow.
             Get in touch
-
-            Our company
-            Locations
-            Contact
-
-            Designo Central Office
-            3886 Wellington Street
-            Toronto, Ontario M9C 3J5
-
-            Contact Us (Central Office)
-            P : +1 253-863-8967
-            M : contact@designo.co
         </>
     );
 }
